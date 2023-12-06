@@ -1,0 +1,35 @@
+body{
+    font-family: 'franklin gothic medium', Courier, monospace;
+    background-color: rgb(0, 0, 53);
+    color: white;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fj.gifs.com%2FvqNe2M.gif&f=1&nofb=1&ipt=298c4636677b8e792b06d686bec054a269653c9646a8728a5c5ce46a3bb12718&ipo=images);
+}
+    a{
+        color: goldenrod;
+
+    }
+    a:visited{
+        color: green;
+    }
+    a:hover{
+        font-size: 200%;
+    }
+    img{
+        display: block;
+        width: 50%;
+        border: dashed rgb(175, 0, 0) 5px;
+        padding: 3px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    .riz{
+        font-family: chiller, 'comic sans', wingdings, engravers, serif;
+        color: blueviolet;
+        font-size: xx-large;
+        background-color: limegreen;
+    }
+    .riz:hover{
+        display: block;
+        text-align: center;
+        font-size: xx-large;
+    }
